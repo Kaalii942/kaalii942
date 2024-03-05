@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaalii942" alt="kaalii942" /></a> </p>
+
 
 - 🌱 I’m currently learning **python, SQL, C++**
 
